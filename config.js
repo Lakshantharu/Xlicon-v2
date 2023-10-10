@@ -4,8 +4,8 @@ const chalk = require("chalk");
 
 //
 global.available = true;
-global.autoReadGc = false;
-global.autoReadAll = false;
+global.autoReadGc = true;
+global.autoReadAll = true;
 global.antitags = true;
 
 
@@ -17,12 +17,12 @@ global.statusseen = true;                 //This is the new variable for control
 
 
 //
-global.Owner = ["8801975492880","8801928502256"];         //If you want singal number so global.Owner = ['8801928502256'] Change into your number.
-global.OwnerNumber = ["8801975492880","8801928502256"];   //If you want singal number so global.Owner = ['8801928502256'] Change into your number.
-global.ownertag = ["8801975492880"];
-global.OwnerName = "Slasher";
-global.BotName = "XLICON-MD";
-global.packname = "X-2.0 Bot";                             //Do not change.
+global.Owner = ["94740694951","94740694951"];         //If you want singal number so global.Owner = ['8801928502256'] Change into your number.
+global.OwnerNumber = ["94740694951","94740694951"];   //If you want singal number so global.Owner = ['8801928502256'] Change into your number.
+global.ownertag = ["94740694951"];
+global.OwnerName = "*𝗕𝗢𝗧⦁✫❗𝗦𝗛𝗔𝗚𝗜😈☰)⃟⃛⃛⃛⃛⃛⃛⃛⃛⃛⃛⃛⃐⃛⃛⃛⃛⃛⃛⃛⃛⃛⃛⃛⃛⃛⃛⃛⃛⃛❌-ᴍᴅ*🇱🇰";
+global.BotName = "*𝗕𝗢𝗧⦁✫❗𝗦𝗛𝗔𝗚𝗜😈☰)⃟⃛⃛⃛⃛⃛⃛⃛⃛⃛⃛⃛⃐⃛⃛⃛⃛⃛⃛⃛⃛⃛⃛⃛⃛⃛⃛⃛⃛⃛❌-ᴍᴅ*";
+global.packname = "*𝗕𝗢𝗧⦁✫❗𝗦𝗛𝗔𝗚𝗜😈☰)⃟⃛⃛⃛⃛⃛⃛⃛⃛⃛⃛⃛⃐⃛⃛⃛⃛⃛⃛⃛⃛⃛⃛⃛⃛⃛⃛⃛⃛⃛❌-ᴍᴅ*🇱🇰";                             //Do not change.
 global.author = "By: Slasher";                               //Do not change.
 global.BotSourceCode = "https://github.com/ahil15/Xlicon-v2"; //Do not change.
 global.SupportGroupLink = "https://chat.whatsapp.com/C4ivwZKuh5bLJkqfYNPQsk"; 
